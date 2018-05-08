@@ -10,3 +10,5 @@ third_element
 
 last_element
 
+first_element_with_array_methods
+
